@@ -1,4 +1,4 @@
-# Repositroy Pembelajaran TypeScript
+# Repositroy Pembelajaran React JS
 
 Untuk folder kenapa-koding, tutorialnya ada di sini :
 
