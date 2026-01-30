@@ -1,13 +1,10 @@
 import "./App.css";
-import Header from "./component/Header";
-import MenuResto from "./component/MenuResto";
+import Mood from "./component/Mood";
 
 function App() {
   return (
     <>
-      <Header />
-      <h1>Hello React, i'm comming!</h1>
-      <MenuResto />
+      <Mood hari="Senin" mood="Senang" />
     </>
   );
 }
