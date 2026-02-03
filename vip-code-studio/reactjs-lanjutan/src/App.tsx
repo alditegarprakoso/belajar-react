@@ -1,10 +1,12 @@
 import "./App.css";
-import BelajarMemo from "./component/ExampleMemo/BelajarMemo";
+// import BelajarMemo from "./component/ExampleMemo/BelajarMemo";
+import BelajarUseMemo from "./component/ExampleUseMemo/BelajarUseMemo";
 
 function App() {
   return (
     <>
-      <BelajarMemo />
+      {/* <BelajarMemo /> */}
+      <BelajarUseMemo />
     </>
   );
 }
